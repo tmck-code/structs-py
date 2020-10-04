@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# OS files
+*.swp # Vim swap files
+*.html # Generated markdown files
+
 # Distribution / packaging
 .Python
 build/
